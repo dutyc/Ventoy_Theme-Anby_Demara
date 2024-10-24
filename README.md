@@ -1,0 +1,2 @@
+# Ventoy_Theme-Anby_Demara
+一个ventoy启动盘Grub引导的主题,壁纸为Zenless Zone Zero中的Anby_Demara
