@@ -1,0 +1,28 @@
+{
+    "theme":{
+        "file": "/ventoy/themes/March7th-TheHunt/theme.txt",
+        "gfxmode": "max"
+    },
+    "menu_class":[
+        {
+            "key": "CentOS",
+            "class": "centos"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "windows11",
+            "class": "windows11"
+        },
+        {
+            "key": "windows",
+            "class": "windows"
+        },
+        {
+            "key": "PE",
+            "class": "memtest"
+        }
+    ]
+}
